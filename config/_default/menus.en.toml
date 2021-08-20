@@ -1,0 +1,53 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Adventures"
+  weight = 200
+  identifier = "adventures"
+  url = "/adventures/"
+
+  [[main]]
+  name = "Healthcare"
+  weight = 200
+  identifier = "Healthcare"
+  url = "/healthcare/"
+
+  [[main]]
+  name = "Supplies"
+  weight = 200
+  identifier = "supplies"
+  url = "/supplies/"
+
+  [[main]]
+  name = "Shop"
+  weight = 300
+  identifier = "shop"
+  url = "https://www.petartlab.etsy.com"
+
+  [[main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Contact"
+  weight = 400
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "Privacy Policy"
+  weight = 1
+  identifier = "privacy"
+  url = "/privacy/"
+
+  [[footer]]
+  name = "All Rights Reserved"
+  weight = 1
+  # identifier = "imprint"
+  # url = "/imprint/"

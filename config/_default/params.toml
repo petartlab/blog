@@ -1,0 +1,70 @@
+
+title = "PetArtLab"
+author = "PetArtLab"
+#copyright = "2021-2022"
+description = "Adventures with a Greyhound"
+profilePicture = "images/faith-cleo5.jpg"
+keywords = "greyhound, pet embroidery, dog gifts"
+disableThemeSwitcher = true 
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+mainSections = ["adventures", "healthcare", "supplies"]
+images = ["images/logo.jpg"]
+doNotLoadAnimations = false
+# Form Spree Contact Form
+contactFormAction = "https://formspree.io/f/mwkawneo"
+# Google Site Verify
+#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+singleDateFormat = "2/1/2006"
+indexDateFormat = "2/1/2006"
+listDateFormat = "2/1/2006"
+# Commento Comments
+# CommentoURL = "https://commento.example.com/js/commento.js"
+# Read More links for truncated summaries
+# readMore = true
+# postSectionName = "blog"
+
+
+[simpleAnalytics]
+# enable = true
+# customurl = "https://analytics.example.com"
+
+## Math settings
+[math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-etsy"
+title = "Etsy"
+url = "https://www.etsy.com/shop/petartlab"
+
+[[socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/petartlab"
+
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/petartlab"
+
+[[socialIcons]]
+icon = "fab fa-youtube"
+title = "Youtube"
+url = "https://www.youtube.com/channel/UCy3Vvz-9-Jfc1R-agJAEW4Q"
+
+[[socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://facebook.com/petartlab"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:petartlab@gmail.com"
