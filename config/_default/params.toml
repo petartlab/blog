@@ -2,16 +2,16 @@
 title = "PetArtLab"
 author = "PetArtLab"
 #copyright = "2021-2022"
-description = "Adventures with a Greyhound"
-profilePicture = "images/faith-cleo5.jpg"
+description = "Sharing our greyt adventures and makes"
+profilePicture = "images/logo.jpg"
 keywords = "greyhound, pet embroidery, dog gifts"
 disableThemeSwitcher = true 
-favicon = "favicons/"
+favicon = "favicons/favicon-32x32.png"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["adventures", "healthcare", "supplies"]
+mainSections = ["posts"]
 images = ["images/logo.jpg"]
 doNotLoadAnimations = false
 # Form Spree Contact Form

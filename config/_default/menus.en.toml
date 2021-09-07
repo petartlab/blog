@@ -5,28 +5,16 @@
   url = "/"
 
   [[main]]
-  name = "Adventures"
+  name = "Posts"
   weight = 200
-  identifier = "adventures"
-  url = "/adventures/"
-
-  [[main]]
-  name = "Healthcare"
-  weight = 200
-  identifier = "Healthcare"
-  url = "/healthcare/"
-
-  [[main]]
-  name = "Supplies"
-  weight = 200
-  identifier = "supplies"
-  url = "/supplies/"
+  identifier = "posts"
+  url = "/posts/"
 
   [[main]]
   name = "Shop"
   weight = 300
   identifier = "shop"
-  url = "https://www.petartlab.etsy.com"
+  url = "https://www.etsy.com/shop/petartlab"
 
   [[main]]
   name = "About"
