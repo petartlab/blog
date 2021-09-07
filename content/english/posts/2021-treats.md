@@ -16,9 +16,9 @@ Here are some of the hits:
 
 * [Ostrich Bone](https://www.petplanet.co.uk/p35900/antos_ostrich_dino_bone.aspx)- these are very useful for cleaning teeth. You can also get them [here](https://www.jrpetproducts.com/shop/large-ostrich-bone/?v=79cba1185463).
 
-* [Chicken feet](https://www.amazon.co.uk/Hollings-653775/dp/B00EDR4L9C/ref=sr_1_2?dchild=1&keywords=hollings+chicken+feet&qid=1629308348&rdc=1&sr=8-2)- she can't resist these but they look disgusting.
+* [Chicken feet](https://amzn.to/3zR9tQ4)- she can't resist these but they look disgusting.
 
-* [Sprats](https://www.amazon.co.uk/gp/product/B01LCXWNKI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)- make sure you keep these double bagged and sealed, they stink.
+* [Sprats](https://amzn.to/3BOHp03)- make sure you keep these double bagged and sealed, they stink.
 
 * [Liver Cake](https://www.hearingdogs.org.uk/training-our-puppies/dog-treat-recipes/liver-cake/)- picture above, these I make following the linked recipe. I don't add any milk and swap flour for ground up oats. She loves them and they are useful to have on hand as treats for doing nails and teeth. 
 
