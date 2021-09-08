@@ -18,11 +18,11 @@ Our hound suffers from corns. Here are some things that have helped so far:
 
 * [Cerave SA cream](https://amzn.to/38PvoLn)- apply this on the corns (or where the corn was) 4 times a day.
 
-Using the above method, we managed to get right paw corn much smaller. It started out as big as the left paw corn, which we are continuing to work on.ß
+Using the above method, we managed to get right paw corn much smaller. It started out as big as the left paw corn, which we are continuing to work on.
 
 Possibly helpful:
 
-* [Epsom salt](https://amzn.to/3yUR7w2)- many people soak their greys' paws in epsom salt solution for several hours, then hull the corn out using dental tools. We've tried this as well but didn't notice much difference between soaking in water vs salt solution. Perhaps this depends on the salt concentration and ours was diluted too much. 
+* [Epsom salt](https://amzn.to/3yUR7w2)- many people soak their greys' paws in epsom salt solution for several hours, then hull the corn out using [dental tools](https://amzn.to/3BQoSAv) or a [root elevator](https://amzn.to/3jYxzD3). We've tried this as well but didn't notice much difference between soaking in water vs salt solution. Perhaps this depends on the salt concentration and ours was diluted too much. 
 
 We've also tried many remedies which failed, including:
 
