@@ -20,6 +20,8 @@ p {
   bottom: -100%;
   left: 0;
   right: 0;
+  max-width: 100%;
+  display: block;
   background: #2f3640;
   color: #f5f6fa;
   padding: 0 32px;
