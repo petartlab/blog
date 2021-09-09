@@ -35,4 +35,14 @@ Roadtrips! Here are the supplies we got, hopefully you find them helpful. Sizes 
 * [Dog walking bag](https://amzn.to/38PTHZF)- not just for trips and used daily, we don't put the poop inside but it's useful for bag dispensing and to hold basics like hand sanitiser, treats, etc.
 
 * [Dog towel](https://amzn.to/3tnM1Y0)- useful due to hand pockets, quick to dry.
+<br>
 
+
+<br>
+
+
+<br>
+
+
+
+<sub><sup>_This post contains affiliate links and I may receive a small commission if you purchase them at no additional cost to you._</sup></sub>
