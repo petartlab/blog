@@ -1,8 +1,9 @@
 ---
-title: Enrichment
+title: Enrichment toys for dogs
 author: PetArtLab
 date: 2021-08-15
 draft: false
+description: puzzle toys for dogs
 tags:
  - dog enrichment
  - toys

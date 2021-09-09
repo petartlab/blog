@@ -3,6 +3,7 @@ title: Adopting a retired racing greyhound
 author: PetArtLab
 date: 2021-07-30
 draft: false
+description: rehoming greyhound, how to find out greyhound's history
 tags:
  - dog adoption
  - retired greyhound

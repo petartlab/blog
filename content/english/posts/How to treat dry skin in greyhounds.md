@@ -1,8 +1,9 @@
 ---
-title: Supplements to help dry flaky skin in greyhounds
+title: How to treat dry skin in greyhounds
 author: PetArtLab
 date: 2021-08-10
 draft: false
+description: supplements to get rid of white flakes in greyhounds
 tags:
  - greyhound
  - dry skin

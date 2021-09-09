@@ -1,8 +1,9 @@
 ---
-title: Favourite toys
+title: A greyhound's favourite toys
 author: PetArtLab
 date: 2021-08-20
 draft: false
+description: toys greyhounds like
 tags:
  - toys
 categories:

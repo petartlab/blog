@@ -1,8 +1,9 @@
 ---
-title: The chronicles of a grey's paws
+title: How to take care of a greyhound's paws
 author: PetArtLab
 date: 2021-08-06
 draft: false
+description: how to care for greyhound's paws
 tags:
  - greyhound
  - paws

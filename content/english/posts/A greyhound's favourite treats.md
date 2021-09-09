@@ -1,8 +1,9 @@
 ---
-title: Favourite Treats
+title: A greyhound's favourite treats
 author: PetArtLab
 date: 2021-08-22    
 draft: false
+description: best treats for greyhounds
 tags:
  - dog treats
 categories:

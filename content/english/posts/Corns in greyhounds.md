@@ -1,8 +1,9 @@
 ---
-title: Corns
+title: Corns in greyhounds
 author: PetArtLab
 date: 2021-09-07
 draft: false
+description: how to treat corns in greyhounds
 tags:
  - greyhound
  - paws

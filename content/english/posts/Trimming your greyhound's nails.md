@@ -3,6 +3,7 @@ title: Trimming your greyhound's nails
 author: PetArtLab
 date: 2021-08-07
 draft: false
+description: dremel dog's nails
 tags:
  - greyhound
  - nails

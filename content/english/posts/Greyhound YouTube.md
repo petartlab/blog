@@ -3,6 +3,7 @@ title: Greyhound YouTube
 author: PetArtLab
 date: 2021-08-28
 draft: false
+description: youtube channels about greyhounds
 tags:
  - dog adoption
  - greyhound
@@ -11,7 +12,6 @@ tags:
 categories:
  - adventures
 thumbnail: "images/greyhound-youtube.jpg"
- 
 ---
  
 YouTube can be very helpful if you are thinking about adopting a retired racer. You can learn a whole lot about greyhounds!

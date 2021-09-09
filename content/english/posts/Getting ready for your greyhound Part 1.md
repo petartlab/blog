@@ -3,6 +3,7 @@ title: Getting ready for your greyhound Part 1
 author: PetArtLab
 date: 2021-08-01
 draft: false
+description: preparing for a new dog
 tags:
  - dog adoption
  - greyhound
