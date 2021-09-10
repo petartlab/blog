@@ -9,7 +9,7 @@ tags:
  - greyhound
 categories:
  - supplies
-thumbnail: "images/harness.jpg"
+thumbnail: "images/greyhound in harness.jpg"
 ---
  
 Roadtrips! Here are the supplies we got, hopefully you find them helpful. Sizes mentioned are for a good sized female greyhound, not a small female or a large male. 

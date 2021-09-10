@@ -11,7 +11,7 @@ tags:
  - new dog
 categories:
  - supplies
-thumbnail: "images/tuffies.jpg"
+thumbnail: "images/tuffies dog bed for greyhounds.jpg"
 ---
  
 It can be daunting to figure out what you need when you are preparing for your hound. Here are the supplies we got, hopefully you find them helpful. 
@@ -39,7 +39,7 @@ The muzzle was bought from the kennel so that the staff could fit it to her prop
 ## **Coat** ##
 We initially purchased a 28 inch Cosipet hunter coat from [here](https://www.hyperdrug.co.uk/cosipet-greyhound-hunter-dog-coat-green/productinfo/GREYHUNTER). Over time, we discovered that the poppers at the front tend to pop open during sniff sessions. Since then, we've purchased two new coats from Lilypeeps. A 26 inch [shower mac](https://lilypeeps.co.uk/product/greyhound-shower-mac-with-hood/) for warmer rainy weather and a 26 inch [waterproof fleece coat](https://lilypeeps.co.uk/product/greyhound-waterproof-raincoat-fleece-lined/) for colder wet weather. Both are great but over time some threads unravelled, this was easily fixed with a needle and thread. Your dog might be a different size depending on the supplier even though most measure from the base of neck to the start of tail. One thing to keep in mind is that some greys lose their bum fur in the Winter, so you might want to make sure this is covered from the cold. Their bellies are also bald so you may want coverage there too. The Lilypeeps waterproof fleece has a panel that covers the tummy, whereas the cosipet doesn't. 
 
-{{< figure src="/images/fleececoat.jpg" title="Lilypeeps waterproof fleece lined raincoat" >}}
+{{< figure src="/images/greyhound in fleece coat.jpg" title="Lilypeeps waterproof fleece lined raincoat" >}}
 
 <br>
 

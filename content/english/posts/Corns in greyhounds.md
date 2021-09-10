@@ -10,16 +10,23 @@ tags:
  - corns
 categories:
  - healthcare
-thumbnail: "images/corns.jpg"
+thumbnail: "images/corns in greyhound.jpg"
 ---
 
 Our hound suffers from corns. Here are some things that have helped so far:
 
-* Natural removal- we have found the best is not to use tools to remove the corn but allow it to get bigger and eventually protrude from the paw. It will start to separate from the healthy tissue and you could encourage this when you apply the Cerave cream on the corn with your fingernails. The corn will come out on its own. At that point, you could continue applying the Cerave cream 4 times a day.
+* Natural removal- we have found the best is not to use tools to remove the corn but allow it to get bigger and eventually protrude from the paw. It naturally separates from the healthy tissue and you could encourage this when you apply the Cerave cream on the corn with your fingernails. The corn will eventually come out on its own. At that point, you could continue applying the Cerave cream 4 times a day. 
 
-* [Cerave SA cream](https://amzn.to/38PvoLn)- apply this on the corns (or where the corn was) 4 times a day.
+* [Cerave SA cream](https://amzn.to/38PvoLn)- applied to corns (or where the corn was) 4 times a day.
 
-Using the above method, we managed to get right paw corn much smaller. It started out as big as the left paw corn, which we are continuing to work on.
+
+* [Therapaw boots](https://amzn.to/2Yzl08I)- size TD, used for every walk on front two paws. Note they are sold individually. We use [newborn socks](https://amzn.to/3E02zKR) underneath with a small hole made for the dew claws to prevent rubbing. This has stopped her limping and made her much happier to walk. [Hunnyboots](https://hunnyboots.com/) are a stylish popular alternative but sizing and customs charges made us try the therapaws. 
+
+{{< figure src="/images/greyhound in socks and therapaws.jpg" title="Paw in socks and therapaw dog boot" >}}
+
+<br>
+
+Using the above method, we managed to get right paw corn much smaller. It started out as big as the left paw corn, which we are continuing to work on albeit with slow progress.
 
 Possibly helpful:
 

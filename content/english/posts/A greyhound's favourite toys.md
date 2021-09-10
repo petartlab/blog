@@ -8,7 +8,7 @@ tags:
  - toys
 categories:
  - supplies
-thumbnail: "images/cleo.jpg"
+thumbnail: "images/cleo the caterpillar dog toy.jpg"
 ---
 
 Here are some of our hound's favourites: 

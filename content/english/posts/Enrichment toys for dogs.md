@@ -9,7 +9,7 @@ tags:
  - toys
 categories:
  - supplies
-thumbnail: "images/enrichment.jpg"
+thumbnail: "images/enrichment toys for dogs.jpg"
 ---
 
 Our hound is food motivated and enthusiastic about learning, so we started introducing enrichment toys.

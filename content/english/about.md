@@ -3,7 +3,7 @@ author: PetArtLab
 title: About
 date: 2021-08-01
 description: greyhound blog
-thumbnail: "images/cleo5.jpg"
+thumbnail: "images/caterpillar toy and greyhound.jpg"
 ---
 Welcome to PetArtLab where you will find handmade gifts for dogs and their humans. We are big fans of greyhounds but do offer items for other breeds and species. On the blog, we share info we've learned along the way while caring for our grey. We hope you find it useful!
 

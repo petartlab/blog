@@ -8,7 +8,7 @@ tags:
  - dog treats
 categories:
  - supplies
-thumbnail: "images/livercake.jpg"
+thumbnail: "images/livercake treats for dogs.jpg"
 ---
 
 We've tried giving several different kinds of treats, some more gruesome than others. 
