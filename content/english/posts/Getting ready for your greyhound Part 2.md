@@ -59,7 +59,7 @@ Whether you decide to use flea and worming treatments is up to you but these wer
 * [Frontline Plus 20-40kg](https://www.hyperdrug.co.uk/Frontline-PLUS-Spot-On-Flea-Treatment-Large-Dogs-20-40kg/productinfo/FRONTPL/)
 * [Easimax](https://www.hyperdrug.co.uk/Easimax-Plus-Dog-Wormer-Tablets-pack-of-4/productinfo/EASIMAX4/) (1 tablet per 10kg of bodyweight). 
 
-We were advised against giving Bravecto, Nexguard and Simpicara due to side effects in greys. Our vet has advised a switch from the kennel ones due to prevalence of lungworm in the area.
+Our vet has advised a switch from the kennel ones due to prevalence of lungworm in the area.
 
 Here are a few other things that we found to be a useful:
 * Installing [baby gates](https://amzn.to/3habGPa)- this helped with separation anxiety since our hound doesn't have physical access at all times. 
