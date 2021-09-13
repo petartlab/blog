@@ -41,7 +41,7 @@ The poop bags are a must, rest are optional.
 * [Poop bags](https://amzn.to/3tnjLVA)- gone through many boxes and not once have they ripped.
 * [Pet odour removing spray](https://amzn.to/3neZSyT) in case of accidents in the house, we haven't had to use this yet.
 * [Bitter apple spray](https://amzn.to/3yPqCs4)- to deter chewing on furniture. It's somewhat effective, definitely not 100%.
-* [Washing bag](https://amzn.to/3DYejNC)- to contain fur while washing dog bedding. Some people swear by this and suggest a horse sized one like [this](https://amzn.to/3l5XGqT) but not sure how effective it is. Fur still ends up everywhere but the bag might help. I've resorted to manually removing as much fur as possible from the empty machine, then running an empty rinse cycle afterwards.
+* [Washing bag](https://amzn.to/3DYejNC)- to contain fur while washing dog bedding. Some people swear by this and suggest a horse sized one like [this](https://amzn.to/3l5XGqT). 
 
 <br>
 

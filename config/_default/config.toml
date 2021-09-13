@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of PetArtLab"
+title = "PetArtLab"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true

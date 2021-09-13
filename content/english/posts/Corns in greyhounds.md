@@ -20,7 +20,7 @@ Our hound suffers from corns. Here are some things that have helped so far:
 * [Cerave SA cream](https://amzn.to/38PvoLn)- applied to corns (or where the corn was) 4 times a day.
 
 
-* [Therapaw boots](https://amzn.to/2Yzl08I)- size TD, used for every walk on front two paws. Note they are sold individually. We use [newborn socks](https://amzn.to/3E02zKR) underneath with a small hole made for the dew claws to prevent rubbing. This has stopped her limping and made her much happier to walk. [Hunnyboots](https://hunnyboots.com/) are a stylish popular alternative but sizing and customs charges made us try the therapaws. 
+* [Therapaw boots](https://amzn.to/2Yzl08I)- size TD, used for every walk on front two paws. Note they are sold individually. We use [newborn socks](https://amzn.to/3E02zKR) underneath with a small hole made for the dew claws to prevent rubbing. This has stopped her limping and made her much happier to walk. [Hunnyboots](https://hunnyboots.com/) are a stylish popular alternative. You could try the UK supplier called [Zoomadog](https://zoomadog.co.uk/products/799-hunny-boots-v3-set%C2%A0of-two/?bc=no) or [Pointy Faces](https://www.pointyfaces.co.uk/sighthound-boots). The shipping was slightly cheaper with Pointy Faces when I checked.
 
 {{< figure src="/images/greyhound in socks and therapaws.jpg" title="Paw in socks and therapaw dog boot" >}}
 
