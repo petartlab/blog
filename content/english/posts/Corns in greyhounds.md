@@ -15,12 +15,12 @@ thumbnail: "images/corns in greyhound.jpg"
 
 Our hound suffers from corns. Here are some things that have helped so far:
 
-* Natural removal- we have found the best is not to use tools to remove the corn but allow it to get bigger and eventually protrude from the paw. It naturally separates from the healthy tissue and you could encourage this when you apply the Cerave cream on the corn with your fingernails. The corn will eventually come out on its own. At that point, you could continue applying the Cerave cream 4 times a day. 
+* Natural removal- we have found the best is not to use tools to remove the corn but allow it to get bigger and eventually protrude from the paw. It naturally separates from the healthy tissue and you could encourage this when you apply the Cerave cream on the corn with your fingernails. The corn will eventually come out on its own. At that point, you could continue applying the Cerave cream 4 times a day. The best outcome is the corn gets smaller each time it grows back and over time that it disappears. 
 
 * [Cerave SA cream](https://amzn.to/38PvoLn)- applied to corns (or where the corn was) 4 times a day.
 
 
-* [Therapaw boots](https://amzn.to/2Yzl08I)- size TD, used for every walk on front two paws. Note they are sold individually. We use [newborn socks](https://amzn.to/3E02zKR) underneath with a small hole made for the dew claws to prevent rubbing. This has stopped her limping and made her much happier to walk. [Hunnyboots](https://hunnyboots.com/) are a stylish popular alternative. You could try the UK supplier called [Zoomadog](https://zoomadog.co.uk/products/799-hunny-boots-v3-set%C2%A0of-two/?bc=no) or [Pointy Faces](https://www.pointyfaces.co.uk/sighthound-boots). The shipping was slightly cheaper with Pointy Faces when I checked.
+* [Therapaw boots](https://amzn.to/2Yzl08I)- size TD, used for every walk on front two paws. Note they are sold individually. We use [newborn socks](https://amzn.to/3E02zKR) underneath with a small hole made for the dew claws to prevent rubbing. This has stopped her limping and made her much happier to walk. [Hunnyboots](https://hunnyboots.com/) are a stylish popular alternative. You could try UK suppliers, [Zoomadog](https://zoomadog.co.uk/products/799-hunny-boots-v3-set%C2%A0of-two/?bc=no) or [Pointy Faces](https://www.pointyfaces.co.uk/sighthound-boots). The shipping was slightly cheaper with Pointy Faces when I checked. 
 
 {{< figure src="/images/greyhound in socks and therapaws.jpg" title="Paw in socks and therapaw dog boot" >}}
 
@@ -44,6 +44,11 @@ Untested remedies:
 
 * Nail Polish- some people apply this on the corn possibly to dry it out. 
 
+<br>
+
+Update- 2021-09-13
+
+We brought our grey to the vet for her annual check up. This vet is known to be experienced with greyhounds and she seemed pleased with how we were managing her corns and said that the corns were softened! When she took her in to examine her, she ground them down slightly below the surface as she thought the cream might get in deeper if she did that. We will continue with the Cerave regimen. Our hound's back two paws have started to form one corn on each paw. She hasn't been wearing boots on her back paws on walks because it wasn't necessary until this point. Now she will have to to prevent the corns from getting worse. For the back, Therapaws didn't fit the paw shape well (TD or TC sizes), so Hunnyboots have been ordered (size Medium). 
 <br>
 
 
