@@ -8,10 +8,14 @@ tags:
  - greyhound
  - paws
  - corns
+ - limping
+ - lame
 categories:
  - healthcare
 thumbnail: "images/corns in greyhound.jpg"
 ---
+
+If your greyhound starts limping (goes lame), you might want to first check your dog's paw pads for corns. One way to check for this is to rub a little bit of toothpaste to see an outline of the corn. 
 
 Our hound suffers from corns. Here are some things that have helped so far:
 
@@ -48,7 +52,7 @@ Untested remedies:
 
 Update- 2021-09-13
 
-We brought our grey to the vet for her annual check up. This vet is known to be experienced with greyhounds and she seemed pleased with how we were managing her corns and said that the corns were softened! When she took her in to examine her, she ground them down slightly below the surface as she thought the cream might get in deeper if she did that. We will continue with the Cerave regimen. Our hound's back two paws have started to form one corn on each paw. She hasn't been wearing boots on her back paws on walks because it wasn't necessary until this point. Now she will have to to prevent the corns from getting worse. For the back, Therapaws didn't fit the paw shape well (TD or TC sizes), so Hunnyboots have been ordered (size Medium). 
+Our grey saw the vet for her annual check up. This vet is known to be experienced with greyhounds and she seemed pleased with her corn management and said that the corns were softened! When she took her in to examine her, she ground them down slightly below the surface as she thought the cream might get in deeper if she did that. We will continue with the Cerave regimen. Our hound's back two paws have started to form one corn on each paw. She hadn't been wearing boots on her back paws on walks because it wasn't necessary until this point. Now she will to prevent the corns from getting worse. For the back, Therapaws didn't fit the paw shape well (TD or TC sizes), so we will try Hunnyboots (size Medium). 
 <br>
 
 
