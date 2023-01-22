@@ -1,5 +1,5 @@
 ---
-title: Corns in greyhounds
+title: Managing corns in greyhounds
 author: PetArtLab
 date: 2021-09-07
 draft: false
@@ -53,6 +53,19 @@ Untested remedies:
 Update- 2021-09-13
 
 Our grey saw the vet for her annual check up. This vet is known to be experienced with greyhounds and she seemed pleased with her corn management and said that the corns were softened! When she took her in to examine her, she ground them down slightly below the surface as she thought the cream might get in deeper if she did that. We will continue with the Cerave regimen. Our hound's back two paws have started to form one corn on each paw. She hadn't been wearing boots on her back paws on walks because it wasn't necessary until this point. Now she will to prevent the corns from getting worse. For the back, Therapaws didn't fit the paw shape well (TD or TC sizes), so we will try Hunnyboots (size Medium). 
+
+Update- 2022-08-08
+
+Over the past year, she has continued to wear the Therapaws on her front paws, but the corns have repeated returned. We don't think it's possible to get rid of them as long as the mechanical pressure persists. We manage them using the soaking/hulling method. The ideal time to remove them is straight after a walk on a wet day. We've been using [dental tools]((https://smile.amazon.co.uk/HOKIN-Remover-Cleaning-Filling-Stainless/dp/B08DNZWR33/ref=sr_1_7?crid=2F368C2KY5UK9&keywords=dental+tools&qid=1659952007&sprefix=dental+tools%2Caps%2C82&sr=8-7)) to help remove the corns and after we apply [Cerave SA cream](https://amzn.to/38PvoLn). So far, she has not had issues walking with regular management. Fingers crossed!
+
+An update on her back paws- we've similarly removed the corns twice in the past year when they started to protrude but they are relatively small and do not appear to bother rest of the time. She is more sensitive about her back paws and dislikes wearing the hunnyboots so she has been wearing boots on front paws only. The therapaws have been very reliable and she walks well in them but now they are starting to wear out with holes developing by the toes. Due to the pandemic, we have had trouble sourcing replacements but we've been told by the manufacturers that they should become available mid-end August, 2022. Some UK suppliers are shared below:
+
+* [Westcoast](https://westcoasthydrotherapy.co.uk/product/therapaw/)
+
+* [Zoomadog](https://zoomadog.co.uk/products/142-tp-therapaw-protective-dog-boot-single-boot)
+
+* [Amazon](https://smile.amazon.co.uk/Westcoast-Thera-Paw-Padded-Size-TB/dp/B0074IYFSE/ref=sr_1_5?crid=2H5U6X5VR30N0&keywords=therapaw+td&qid=1659953685&sprefix=therapaw+td%2Caps%2C97&sr=8-5)
+
 <br>
 
 

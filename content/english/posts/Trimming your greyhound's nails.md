@@ -15,7 +15,11 @@ Trimming your dog's nails can be daunting, especially if they have black nails. 
 
 Our hound had no issues with us handling her paws, which is not the case with all dogs. However, she did not like the look of the dremel and the noise it made. So, first we got her acclimated to the noise, trained her to lay on her side, then the feel when the dremel touched her nail, then we started trimming one nail at a time multiple times a day. Each interaction was kept short and pleasant with plenty of liver cake treats and she was happy. Now, she willingly lays on her side for us to trim all her nails in one session. 
 
+If you are trimming black nails, the photos on [this page](https://truepawpal.com/blogs/news/tips-and-tricks-for-trimming-your-dogs-nails) was helpful. 
+
 If you are brave or feel comfortable using a nail clipper, the [Mikki nail clipper](https://amzn.to/3hanD7y) was recommended by our kennel. 
+
+
 <br>
 
 
