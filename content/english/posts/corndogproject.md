@@ -25,7 +25,7 @@ It would be great if you could email us photos of your dog's paws to add to our 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/pePHeVW"  ><a href="//imgur.com/a/pePHeVW">corn</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/qnjbkBg"><a href="//imgur.com/a/qnjbkBg">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<br>
+
 ## **Corndog App** ##
 
 Drop in your photo here to check whether your dog has a corn! Please keep in mind the model is still learning and cannot definitively tell you whether your dog has a corn. For medical advice, please consult a vet.
@@ -36,3 +36,4 @@ Drop in your photo here to check whether your dog has a corn! Please keep in min
 ></script>
 
 <gradio-app src="https://com48com-corndog.hf.space"></gradio-app>
+
