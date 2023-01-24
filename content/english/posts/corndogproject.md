@@ -21,7 +21,9 @@ Image Album
 
 Corndog App
 
-<script type="module"
-src="https://gradio.s3-us-west-2.amazonaws.com/3.12.0/gradop.js">
-</script>
-<gradio-app src="https://<com48com-corndog-gradio>.hf.space"></gradio-app>
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.4/gradio.js"
+></script>
+
+<gradio-app src="https://com48com-corndog.hf.space"></gradio-app>
