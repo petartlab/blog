@@ -15,20 +15,17 @@ categories:
 thumbnail: "images/corn.jpg"
 ---
 
-We are working on a tool to help people determine whether there is a corn present in the paw. We might encourage voluntary donation to greyhound charities but it will be for free to everyone. 
-You can try it out here: [Corndog App](https://huggingface.co/spaces/com48com/corndog)
-
+We are working on a tool to help people determine whether a corn is present in their dog's paw. We might encourage voluntary donation to greyhound charities but it will be for free to everyone. 
+<br>
+You can try it out here: [Corndog App](https://huggingface.co/spaces/com48com/corndog). The app seems faster if follow the link compared to using the tool below.
 
 ## **Photo Collection** ##
-It would be great if you could add photos of your dog's paws to our album to improve our model! 
+It would be great if you could email us photos of your dog's paws to add to our album to improve our model. Both photos of paws with corns and without corns are helpful! 
 
-With corns
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/pePHeVW"  ><a href="//imgur.com/a/pePHeVW">corn</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Without corns
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/qnjbkBg"><a href="//imgur.com/a/qnjbkBg">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
+<br>
 ## **Corndog App** ##
 
 Drop in your photo here to check whether your dog has a corn! Please keep in mind the model is still learning and cannot definitively tell you whether your dog has a corn. For medical advice, please consult a vet.
