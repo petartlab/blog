@@ -1,5 +1,5 @@
 ---
-title: Greyhound high-neck jumper knitting pattern
+title: Greyhound turtleneck jumper knitting pattern
 author: PetArtLab
 date: 2023-07-17
 draft: false
@@ -13,7 +13,7 @@ categories:
 thumbnail: "images/greyhoundjumper.jpg"
 ---
  
-I tested several greyhound knitting patterns and decided to design my own jumper pattern for our hound. Some issues I had with other dog jumper knitting patterns include: jumper riding down the neck toward the shoulders, back of jumper flipping up off the rump in the wind, not enough or too much belly coverage, and arm holes being too small for free movement. I tried to address these in my pattern. It's available for free here: 
+I tested several greyhound knitting patterns and decided to design my own jumper pattern for our hound. Some issues I had with other dog jumper knitting patterns include: jumper riding down the neck toward the shoulders, back of jumper flipping up off the rump in the wind, not enough or too much belly coverage, and arm holes being too small for free movement. I tried to address these in my pattern. It's available for free[here](https://docs.google.com/document/d/e/2PACX-1vQdZ6ewkaS-c0mWUWisI8wIee4zjv5BHzGf3KbCcvfZI73bncSA-kzrw7Dyyo418iXw1ZIMYy2qKmsa/pub)
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQdZ6ewkaS-c0mWUWisI8wIee4zjv5BHzGf3KbCcvfZI73bncSA-kzrw7Dyyo418iXw1ZIMYy2qKmsa/pub?embedded=true"></iframe>
 
