@@ -15,6 +15,10 @@ categories:
 thumbnail: "images/corn.jpg"
 ---
 
+## **Update: 2023-07-17** ##
+Due to limitations on number of consistency, quantity, quality of the pictures available, we've decided to put this project on hold. Main issues lie in differentiating between typical corns, cutaneous horns, and near invisible deep rooted painful corns that appear in rare cases. 
+<br>
+
 We are working on a tool to help people determine whether a corn is present in their dog's paw. We might encourage voluntary donation to greyhound charities but it will be for free to everyone. 
 <br>
 You can try it out here: [Corndog App](https://huggingface.co/spaces/com48com/corndog). The app seems faster if follow the link compared to using the tool below.
