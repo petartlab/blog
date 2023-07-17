@@ -13,7 +13,13 @@ categories:
 thumbnail: "images/greyhoundjumper.jpg"
 ---
  
-I tested several greyhound knitting patterns and decided to design my own jumper pattern for our hound. Some issues I had with other dog jumper knitting patterns include: jumper riding down the neck toward the shoulders, back of jumper flipping up off the rump in the wind, not enough or too much belly coverage, and arm holes being too small for free movement. I tried to address these in my pattern. It's available for free here: <iframe src="https://docs.google.com/document/d/e/2PACX-1vQdZ6ewkaS-c0mWUWisI8wIee4zjv5BHzGf3KbCcvfZI73bncSA-kzrw7Dyyo418iXw1ZIMYy2qKmsa/pub?embedded=true"></iframe>
+I tested several greyhound knitting patterns and decided to design my own jumper pattern for our hound. Some issues I had with other dog jumper knitting patterns include: jumper riding down the neck toward the shoulders, back of jumper flipping up off the rump in the wind, not enough or too much belly coverage, and arm holes being too small for free movement. I tried to address these in my pattern. It's available for free here: 
+
+<iframe src="" width="1200" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+embedded=true
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQdZ6ewkaS-c0mWUWisI8wIee4zjv5BHzGf3KbCcvfZI73bncSA-kzrw7Dyyo418iXw1ZIMYy2qKmsa/pub?embedded=true"></iframe>
 
 <br>
 
