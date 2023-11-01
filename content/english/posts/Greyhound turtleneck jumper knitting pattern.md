@@ -1,5 +1,5 @@
 ---
-title: Greyhound turtleneck jumper knitting pattern
+title: Greyhound sweater knitting pattern
 author: PetArtLab
 date: 2023-07-17
 draft: false
@@ -19,7 +19,9 @@ I tested several greyhound knitting patterns and decided to design my own jumper
 
 <br>
 
-Please feel free to contact me with any queries or feedback! I only made it for my hound's size- she normally wears a medium (her size details in the pattern).
+Please feel free to contact me with any queries or feedback! I only made it for my hound's size- she normally wears a medium (her size details in the pattern). You can see other knitters' projects on [ravelry](https://www.ravelry.com/patterns/library/greyhound-sweater)
+
+<br> 
 
 <br>
 
