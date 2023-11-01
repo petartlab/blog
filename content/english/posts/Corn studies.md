@@ -12,7 +12,7 @@ tags:
  - lame
 categories:
  - healthcare
-thumbnail: "images/corns in greyhound.jpg"
+thumbnail: "images/webinar.jpg"
 ---
 
 Our battle with corns continue but our hound doesn't appear to be suffering with our current regime of hulling and boots on walks. 
