@@ -17,9 +17,9 @@ Here are some of the hits:
 
 * [Ostrich Bone](https://www.petplanet.co.uk/p35900/antos_ostrich_dino_bone.aspx)- these are very useful for cleaning teeth. You can also get them [here](https://www.jrpetproducts.com/shop/large-ostrich-bone/?v=79cba1185463).
 
-* [Chicken feet](https://amzn.to/3zR9tQ4)- she can't resist these but they look disgusting.
+* [Chicken feet](https://www.amazon.co.uk/gp/product/B00EDR4L9C/ref=as_li_tl?ie=UTF8&amp;tag=petartlab-21&amp;camp=1634&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B00EDR4L9C&amp;linkId=2860d5ad219647cb97de7c404531923a&_encoding=UTF8&tag=petartlab07-21&linkCode=ur2&linkId=323492c3dbfde5946824c5876dc65cc4&camp=1634&creative=6738)- she can't resist these but they look disgusting.
 
-* [Sprats](https://amzn.to/3BOHp03)- make sure you keep these double bagged and sealed, they stink.
+* [Sprats](https://www.amazon.co.uk/gp/product/B01LCXWNKI/ref=as_li_tl?ie=UTF8&amp;tag=petartlab-21&amp;camp=1634&amp;creative=6738&amp;linkCode=as2&amp;creativeASIN=B01LCXWNKI&amp;linkId=a12b1202353d1fd0260711ecf6690837&_encoding=UTF8&tag=petartlab07-21&linkCode=ur2&linkId=13ea63e5d7ae5928936d8c4565ff669a&camp=1634&creative=6738)- make sure you keep these double bagged and sealed, they stink.
 
 * [Liver Cake](https://www.hearingdogs.org.uk/training-our-puppies/dog-treat-recipes/liver-cake/)- picture above, these I make following the linked recipe. I don't add any milk and swap flour for ground up oats. She loves them and they are useful to have on hand as treats for doing nails and teeth. 
 
