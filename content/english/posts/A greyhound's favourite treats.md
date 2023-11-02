@@ -33,7 +33,7 @@ Here are some of the hits:
 
 Moderate response:
 
-* [Yak chew](https://www.zooplus.co.uk/shop/dogs/dog_treats_chews/chew_sticks/hard_chew_sticks/695314)- we got these based on the [Magnus YouTube channel](https://www.youtube.com/user/degsgunn) recommendation but I would say she's less enthusiastic about them over time. One useful tip is when you have a small piece left at the end, you can microwave it and it will puff up. Let it cool completely and it's like a big cracker.
+* [Yak chew](https://www.amazon.co.uk/Yakers-Dog-Chew-Extra-Large/dp/B07B77P4QW/ref=sr_1_7?crid=3GIKJ83Y6AY66&amp;keywords=yak+chew&amp;qid=1698933297&amp;sprefix=yak+chew%252Caps%252C100&amp;sr=8-7&_encoding=UTF8&tag=petartlab07-21&linkCode=ur2&linkId=3b0bf98249de0141ebe07d58e95c3a9c&camp=1634&creative=6738)- we got these based on the [Magnus YouTube channel](https://www.youtube.com/user/degsgunn) recommendation but I would say she's less enthusiastic about them over time. One useful tip is when you have a small piece left at the end, you can microwave it and it will puff up. Let it cool completely and it's like a big cracker.
 
 * [Training treats](https://www.jrpetproducts.com/pure-training-treats-dog-treats/?v=79cba1185463)- these small treats are useful to put in puzzles and kongs.
 

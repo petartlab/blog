@@ -20,6 +20,7 @@ I tested several greyhound jumper knitting patterns and decided to design my own
 
 Please feel free to contact me with any queries or feedback! I only made it for my hound's size- she normally wears a medium (her size details in the pattern). You can see other knitters' projects on [ravelry](https://www.ravelry.com/patterns/library/greyhound-sweater)
 
+FYI, I use [Chiagoo twist red lace interchangeable circular needles](https://www.amazon.co.uk/ChiaoGoo-TWIST-Interchangeables-Knitting-Needles/dp/B00BIPS4BI/ref=sr_1_7?crid=YWP4N1FC29PB&amp;keywords=chiaogoo+interchangeable+needles&amp;qid=1698931593&amp;sprefix=chiagoo+interchangeable+needles%252Caps%252C94&amp;sr=8-7&amp;ufe=app_do%253Aamzn1.fos.cc223b57-2b86-485c-a85e-6431c1f06c86&_encoding=UTF8&tag=petartlab07-21&linkCode=ur2&linkId=ffd71fc7e090819f9233bed3eeba2b61&camp=1634&creative=6738) for my knitting!
 <br>
 
 {{< figure src="/images/greyhoundjumper2.jpg" >}}
